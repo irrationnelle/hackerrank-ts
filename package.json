@@ -54,7 +54,10 @@
       "@typescript-eslint"
     ],
     "rules": {
-      "implicit-arrow-linebreak": ["error", "below"],
+      "implicit-arrow-linebreak": [
+        "error",
+        "below"
+      ],
       "import/no-extraneous-dependencies": [
         "error",
         {
